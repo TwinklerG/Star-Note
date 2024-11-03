@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "todo_page_title",
+      "value": "Todo"
+    },
+    {
+      "name": "manage",
+      "value": "manage"
+    },
+    {
+      "name": "cancel",
+      "value": "cancel"
+    },
+    {
+      "name": "overall_progress",
+      "value": "Overall Progress"
+    },
+    {
+      "name": "add",
+      "value": "ADD"
+    },
+    {
+      "name": "delete",
+      "value": "DELETE"
+    },
+    {
+      "name": "add_todo",
+      "value": "Add Todo"
+    },
+    {
+      "name": "todo_input_tip",
+      "value": "Please input the name of todo"
+    },
+    {
+      "name": "confirm",
+      "value": "confirm"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "about_page_title",
+      "value": "关于"
+    },
+    {
+      "name": "about_project",
+      "value": "本项目仅用于交流学习"
+    },
+    {
+      "name": "contact",
+      "value": "技术交流，邮326598880@qq.com"
+    },
+    {
+      "name": "other_functions",
+      "value": "其他功能"
+    },
+    {
+      "name": "micro_browser",
+      "value": "迷你浏览器"
+    },
+    {
+      "name": "random_2D",
+      "value": "随机二次元"
+    },
+    {
+      "name": "2D_tip",
+      "value": "点击图片获取下一张"
+    }
+  ]
+}

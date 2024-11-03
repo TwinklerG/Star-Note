@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "note_page_title",
+      "value": "笔记"
+    },
+    {
+      "name": "manage",
+      "value": "管理"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "add",
+      "value": "新增"
+    },
+    {
+      "name": "delete",
+      "value": "删除"
+    },
+    {
+      "name": "create_at",
+      "value": "创建于"
+    },
+    {
+      "name": "updated_at",
+      "value": "更新于"
+    },
+    {
+      "name": "title_input_tip",
+      "value": "请输入标题"
+    },
+    {
+      "name": "content_input_tip",
+      "value": "请输入内容"
+    }
+  ]
+}

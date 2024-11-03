@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "about_page_title",
+      "value": "About"
+    },
+    {
+      "name": "about_project",
+      "value": "The project is only for communication and studying"
+    },
+    {
+      "name": "contact",
+      "value": "Technical communication, email 326598880@qq.com"
+    },
+    {
+      "name": "other_functions",
+      "value": "Other functions"
+    },
+    {
+      "name": "micro_browser",
+      "value": "MicroBrowser"
+    },
+    {
+      "name": "random_2D",
+      "value": "Random 2D"
+    },
+    {
+      "name": "2D_tip",
+      "value": "click for the next one"
+    }
+  ]
+}

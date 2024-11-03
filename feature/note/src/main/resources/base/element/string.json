@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "note_page_title",
+      "value": "Note"
+    },
+    {
+      "name": "manage",
+      "value": "manage"
+    },
+    {
+      "name": "cancel",
+      "value": "cancel"
+    },
+    {
+      "name": "add",
+      "value": "ADD"
+    },
+    {
+      "name": "delete",
+      "value": "DELETE"
+    },
+    {
+      "name": "create_at",
+      "value": "Created At"
+    },
+    {
+      "name": "updated_at",
+      "value": "Updated At"
+    },
+    {
+      "name": "title_input_tip",
+      "value": "Please input the title"
+    },
+    {
+      "name": "content_input_tip",
+      "value": "Please input the content"
+    }
+  ]
+}

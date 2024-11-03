@@ -1,0 +1,14 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@tkg/note": "file:../../feature/note",
+    "@tkg/todo": "file:../../feature/todo",
+    "@tkg/about": "file:../../feature/about"
+  }
+}
+

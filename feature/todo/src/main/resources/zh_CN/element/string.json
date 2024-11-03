@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "todo_page_title",
+      "value": "代办"
+    },
+    {
+      "name": "manage",
+      "value": "管理"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "overall_progress",
+      "value": "总体进度"
+    },
+    {
+      "name": "add",
+      "value": "新增"
+    },
+    {
+      "name": "delete",
+      "value": "删除"
+    },
+    {
+      "name": "add_todo",
+      "value": "添加代办"
+    },
+    {
+      "name": "todo_input_tip",
+      "value": "请输入代办名称"
+    },
+    {
+      "name": "confirm",
+      "value": "确定"
+    }
+  ]
+}

@@ -29,8 +29,9 @@ export struct Todo {
   })
 
   async aboutToAppear(): Promise<void> {
+    this.totalTodoNum = 0;
+    this.completedTodoNum = 0;
     this.todos = await TodoPreferenceModel.getAll();
-    console.log(this.todos.toString())
     this.totalTodoNum = this.todos.length;
     this.completedTodoNum = 0;
     this.todos.forEach((v: TodoData) => {

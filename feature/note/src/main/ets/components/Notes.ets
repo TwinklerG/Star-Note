@@ -116,7 +116,7 @@ export struct Notes {
           .fontSize("15fp")
           .fontWeight(FontWeight.Normal)
           .textAlign(TextAlign.Start)
-          .fontColor(Color.White)
+          .fontColor(Color.Black)
       }.width("100%")
       .height("60%")
     }
